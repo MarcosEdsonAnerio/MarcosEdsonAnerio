@@ -1,12 +1,15 @@
 <img align="right" src="http://views.whatilearened.today/views/github/MarcosEdsonAnerio/views.svg"/>
+
+
+
 <div>
 <details>  
-<summary> Um pouco sobre mim:</summary>
+<summary> 🧑 Um pouco sobre mim:</summary>
  
 #    
 **Olá, prazer, me chamo Marcos👍**
  
- Eu atualmente estou estudando Analise E Desenvolvimento De Sistemas na: [**IFRO Campo de Ji-Paraná**](https://portal.ifro.edu.br/ji-parana)
+ Eu atualmente estou estudando Analise E Desenvolvimento De Sistemas na: [**Instituto Federal de Rondonia(Ifro)-Campus Ji-Parana**](https://portal.ifro.edu.br/ji-parana)
 
  **Atualmente estou no primeiro periodo, nas quais as materias são:**
  
@@ -16,10 +19,10 @@
 - Fundamentos de Tecnologia da Informação
 - Matematica Computacional
 </div>
-    
+
 <div align="center">
   
-# 🤓 A estudar..
+ # 🤓 Estudando...
 
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
@@ -29,7 +32,6 @@
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" /></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" /></code>
-
 
 # <img height="40" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/> Statisticas do GitHub:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosEdsonAnerio&show_icons=true&theme=midnight-purple)

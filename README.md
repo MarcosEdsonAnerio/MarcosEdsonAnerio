@@ -1,45 +1,49 @@
-<img align="right" src="http://views.whatilearened.today/views/github/MarcosEdsonAnerio/views.svg"/>
+<img align="left" src="https://komarev.com/ghpvc/?username=MarcosEdsonAnerio&color=blueviolet" alt="MarcosAnerio-profileviews" />
 
-
-
-<div>
-<details>  
-<summary> 🧑 Um pouco sobre mim:</summary>
+<div align="center">
  
-#    
-**Olá, prazer, me chamo Marcos👍**
- 
- Eu atualmente estou estudando Analise E Desenvolvimento De Sistemas na: [**Instituto Federal de Rondonia(Ifro)-Campus Ji-Parana**](https://portal.ifro.edu.br/ji-parana)
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=29&pause=1000&color=9C0BE9&width=500&height=60&lines=Ol%C3%A1%2C+prazer%2C+eu+me+chamo+Marcos!+%E2%9C%8C%EF%B8%8F" alt="MarcosTyping-SVG" /></a>
 
- **Atualmente estou no primeiro periodo, nas quais as materias são:**
+<div align="left">
  
-- Algoritimos e Logica de Progamação 1
+Eu atualmente estou estudando CST em Análise e Desenvolvimento de \
+Sistemas no [**Instituto Federal de Rondônia (IFRO) Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana).
+
+ **No momento, estou no primeiro período, nas quais as materias são:**
+ 
+- Algoritimos e Logica de Progamação I
 - Arquitetura e Organização de Computadores
 - Engenharia de Requisitos
 - Fundamentos de Tecnologia da Informação
-- Matematica Computacional
+- Matemática Computacional
 </div>
 
 <div align="center">
   
- # 🤓 Estudando...
+ ## 📚 Estudando...
 
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" /></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" /></code>
+<code><img height="35" alt="VisualStudio-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /></code>
+<code><img height="35" alt="CLanguage-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
+<code><img height="35" alt="CSharp-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></code>
+<code><img height="35" alt="CPlusPlus-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /></code>
+<code><img height="35" alt="JavaScript-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
+<code><img height="35" alt="Python-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
+<code><img height="35" alt="Android-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" /></code>
+<code><img height="35" alt="RStudio-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" /></code>
 
-# <img height="40" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/> Statisticas do GitHub:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosEdsonAnerio&show_icons=true&theme=midnight-purple)
+## <a href="https://emoji.gg/emoji/3716-blurple-github"><img src="https://cdn3.emoji.gg/emojis/3716-blurple-github.png" width="25px" height="25px" alt="BlurpleGithub-emoji"></a>&#160; Meus Stats do GitHub:
 
-#### Me encontre em:
+<div align="center">
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=MarcosEdsonAnerio&show_icons=true&count_private=true&include_all_commits=false&theme=codeSTACKr&title_color=9932CC&icon_color=9932CC&border_color=0d1017&bg_color=0e1118" width="480" alt="MarcosAnerio-stats"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosEdsonAnerio&layout=default&langs_count=7&theme=codeSTACKr&title_color=9932CC&icon_color=9932CC&border_color=0e1118&bg_color=0e1118" alt="MarcosAnerioTopLangs-stats"></a>
+ 
+<div align="center">
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcosEdsonAnerio&theme=dark&ring=9932CC&currStreakNum=ffffff&hide_border=true&background=0E1118" alt="MarcosAnerioStreak-stats"></a>
+ 
+## 💬 Me encontre em:
 
-<img height="30" src="https://cdn-icons-png.flaticon.com/512/87/87390.png"/> [[Instagram](https://www.instagram.com/marcosedsonanerio/)] **|** 
-<img height="30" src="https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png"/> [[Linkedin](https://www.linkedin.com/in/marcos-edson-336950248/)] **|** 
-<img height="30" src="http://brilhoceleste.com.br/wp-content/uploads/2020/05/whats-1.png"/> [[Whatsapp](https://api.whatsapp.com/send?phone=556993591115)]**|**
+  <img height="17" alt="Instagram-logo" src="https://cdn3.emoji.gg/emojis/6333-instagram.png" /> [**Instagram**](https://www.instagram.com/marcosedsonanerio/)&nbsp;&nbsp; **|**&nbsp;&nbsp;
+  <img height="17" alt="LinkedIn-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> [**Linkedin**](https://www.linkedin.com/in/marcos-edson-336950248/)&nbsp;&nbsp; **|**&nbsp;&nbsp;
+  <img height="17" alt="WhatsApp-logo" src="https://cdn3.emoji.gg/emojis/6158-whatsapp.png" /> [**Whatsapp**](https://api.whatsapp.com/send?phone=556993591115)&nbsp;&nbsp; **|**&nbsp;&nbsp;
+  <img height="17" alt="Email-logo" src="https://pngimg.com/uploads/email/email_PNG100738.png" /> [**E-Mail**](mailto:MarcosEdsonAnerio@hotmail.com)
 </div>
-

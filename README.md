@@ -1,8 +1,8 @@
-<img align="left" src="https://komarev.com/ghpvc/?username=MarcosEdsonAnerio&color=blueviolet" alt="MarcosAnerio-profileviews" />
+<img align="left" src="https://komarev.com/ghpvc/?username=MarcosEdsonAnerio&color=2e8383" alt="MarcosAnerio-profileviews" />
 
 <div align="center">
  
-## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=29&pause=1000&color=9C0BE9&width=500&height=60&lines=Ol%C3%A1%2C+prazer%2C+eu+me+chamo+Marcos!+%E2%9C%8C%EF%B8%8F" alt="MarcosTyping-SVG" /></a>
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=29&pause=1000&color=09d2d2&width=580&height=60&lines=Ol%C3%A1%2C+prazer%2C+eu+me+chamo+Marcos!+%E2%9C%8C%EF%B8%8F" alt="MarcosTyping-SVG" /></a>
 
 <div align="left">
  
@@ -34,11 +34,11 @@ Sistemas no [**Instituto Federal de Rondônia (IFRO) Campus Ji-Paraná**](https:
 ## <a href="https://emoji.gg/emoji/3716-blurple-github"><img src="https://cdn3.emoji.gg/emojis/3716-blurple-github.png" width="25px" height="25px" alt="BlurpleGithub-emoji"></a>&#160; Meus Stats do GitHub:
 
 <div align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=MarcosEdsonAnerio&show_icons=true&count_private=true&include_all_commits=false&theme=codeSTACKr&title_color=9932CC&icon_color=9932CC&border_color=0d1017&bg_color=0e1118" width="480" alt="MarcosAnerio-stats"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosEdsonAnerio&layout=default&langs_count=7&theme=codeSTACKr&title_color=9932CC&icon_color=9932CC&border_color=0e1118&bg_color=0e1118" alt="MarcosAnerioTopLangs-stats"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=MarcosEdsonAnerio&show_icons=true&count_private=true&include_all_commits=false&theme=codeSTACKr&title_color=09d2d2&icon_color=09d2d2&border_color=0d1017&bg_color=0e1118" width="480" alt="MarcosAnerio-stats"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosEdsonAnerio&layout=default&langs_count=7&theme=codeSTACKr&title_color=09d2d2&icon_color=09d2d2&border_color=0e1118&bg_color=0e1118" alt="MarcosAnerioTopLangs-stats"></a>
  
 <div align="center">
-  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcosEdsonAnerio&theme=dark&ring=9932CC&currStreakNum=ffffff&hide_border=true&background=0E1118" alt="MarcosAnerioStreak-stats"></a>
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcosEdsonAnerio&theme=dark&ring=09d2d2&currStreakNum=ffffff&hide_border=true&background=0E1118" alt="MarcosAnerioStreak-stats"></a>
  
 ## 💬 Me encontre em:
 

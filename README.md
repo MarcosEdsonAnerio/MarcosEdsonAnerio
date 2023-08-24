@@ -9,13 +9,13 @@
 Eu atualmente estou estudando CST em Análise e Desenvolvimento de \
 Sistemas no [**Instituto Federal de Rondônia (IFRO) Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana).
 
- **No momento, estou no primeiro período, nas quais as materias são:**
+ **No momento, estou no terceiro período, nas quais as materias são:**
  
-- Algoritimos e Logica de Progamação I
-- Arquitetura e Organização de Computadores
-- Engenharia de Requisitos
-- Fundamentos de Tecnologia da Informação
-- Matemática Computacional
+- Tópicos Especiais em Tecnologia 1
+- Redes de Computadores
+- Banco de Dados 2
+- Programação Orientada a Objetos
+- Interação Humano-Computador
 </div>
 
 <div align="center">

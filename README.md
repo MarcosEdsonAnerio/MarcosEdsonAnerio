@@ -35,8 +35,7 @@ Sistemas no [**Instituto Federal de Rondônia (IFRO) Campus Ji-Paraná**](https:
 
 <div align="center">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=MarcosEdsonAnerio&show_icons=true&count_private=true&include_all_commits=false&theme=codeSTACKr&title_color=09d2d2&icon_color=09d2d2&border_color=0d1017&bg_color=0e1118" width="480" alt="MarcosAnerio-stats"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosEdsonAnerio&layout=default&langs_count=7&theme=codeSTACKr&title_color=09d2d2&icon_color=09d2d2&border_color=0e1118&bg_color=0e1118" alt="MarcosAnerioTopLangs-stats"></a>
- 
+
 <div align="center">
   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcosEdsonAnerio&theme=dark&ring=09d2d2&currStreakNum=ffffff&hide_border=true&background=0E1118" alt="MarcosAnerioStreak-stats"></a>
  

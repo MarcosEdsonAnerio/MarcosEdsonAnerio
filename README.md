@@ -30,7 +30,6 @@ Além das aulas, também dedico meu tempo a projetos pessoais, como o desenvolvi
 <code><img height="35" alt="Python-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
 <code><img height="35" alt="NodeJS-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
 <code><img height="35" alt="React-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
-<code><img height="35" alt="Blockchain-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" /></code>
 <code><img height="35" alt="Android-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" /></code>
 
 Atualmente, estou aprimorando minhas habilidades com **blockchain para contratos inteligentes e criação de tokens**, além de explorar **frameworks como Node.js e React**. Também me aprofundo em IA, onde estou desenvolvendo um assistente virtual de automação que utiliza Machine Learning para otimizar tarefas.

@@ -6,15 +6,15 @@
 
 <div align="left">
  
-Estou cursando CST em Análise e Desenvolvimento de Sistemas no [**Instituto Federal de Rondônia (IFRO) Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana), onde atualmente estou no terceiro período. Além dos estudos, tenho atuado em projetos práticos de tecnologia, com foco em blockchain, desenvolvimento web e automação.
+Estou cursando Análise e Desenvolvimento de Sistemas no [**Instituto Federal de Rondônia (IFRO) Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana), onde atualmente estou no quarto período. Além dos estudos, tenho atuado em projetos práticos de tecnologia, com foco em blockchain, desenvolvimento web e automação.
 
  **Disciplinas no semestre atual:**
  
-- Tópicos Especiais em Tecnologia 1
-- Redes de Computadores
-- Banco de Dados 2
-- Programação Orientada a Objetos
-- Interação Humano-Computador
+- Internet das Coisas
+- Programação com Acesso a Banco de Dados
+- Programação Web II
+- Probrabilidade e Estatística
+- Desenvolvimento para Dispositivos Móveis
 
 Além disso, estou constantemente desenvolvendo projetos pessoais para aprimorar minhas habilidades, incluindo um sistema de rastreamento de produtos utilizando blockchain e a criação de um assistente virtual em IA para automação de tarefas no computador.
 </div>

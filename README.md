@@ -2,7 +2,7 @@
 
 <div align="center">
  
-## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=29&pause=1000&color=09d2d2&width=580&height=60&lines=Olá,+prazer,+eu+sou+o+Marcos!+%E2%9C%8C%EF%B8%8F" alt="MarcosTyping-SVG" /></a>
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&weight=500&size=25&pause=1000&width=435&lines=Ol%C3%A1%2C+prazer!+Sou+o+Marcos)](https://git.io/typing-svg)
 
 <div align="left">
  
